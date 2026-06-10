@@ -1,0 +1,188 @@
+2026-06-02 13:15:07 [INFO] Browser launched and navigated to URL
+2026-06-02 13:15:10 [INFO] Browser closed
+2026-06-02 13:15:14 [INFO] Browser launched and navigated to URL
+2026-06-02 13:15:15 [INFO] Browser closed
+2026-06-02 13:15:20 [INFO] Browser launched and navigated to URL
+2026-06-02 13:15:22 [INFO] Browser closed
+2026-06-02 14:57:16 [INFO] Browser launched and navigated to URL
+2026-06-02 14:57:17 [INFO] Entered username: standard_user
+2026-06-02 14:57:17 [INFO] Entered password
+2026-06-02 14:57:17 [INFO] Clicked login button
+2026-06-02 14:57:21 [INFO] Menu options displayed
+2026-06-02 14:57:23 [INFO] Navigating to login page
+2026-06-02 14:57:25 [INFO] Login and Logout Successfull
+2026-06-02 14:57:26 [INFO] Browser closed
+2026-06-02 14:57:29 [INFO] Browser launched and navigated to URL
+2026-06-02 14:57:29 [INFO] Entered username: standard_user
+2026-06-02 14:57:29 [INFO] Entered password
+2026-06-02 14:57:29 [INFO] Clicked login button
+2026-06-02 14:57:29 [INFO] Login Successful
+2026-06-02 14:57:31 [INFO] Product added to cart
+2026-06-02 14:57:34 [INFO] Navigation to cart page
+2026-06-02 14:57:34 [INFO] Product added and cart opened
+2026-06-02 14:57:36 [INFO] Menu options displayed
+2026-06-02 14:57:38 [INFO] Navigating to login page
+2026-06-02 14:57:40 [INFO] User logged out
+2026-06-02 14:57:40 [INFO] Browser closed
+2026-06-02 14:57:44 [INFO] Browser launched and navigated to URL
+2026-06-02 14:57:44 [INFO] Entered username: standard_user
+2026-06-02 14:57:44 [INFO] Entered password
+2026-06-02 14:57:44 [INFO] Clicked login button
+2026-06-02 14:57:44 [INFO] Login succeessful
+2026-06-02 14:57:46 [INFO] Navigation to cart page
+2026-06-02 14:57:46 [INFO] Product added and cart opened
+2026-06-02 14:57:48 [INFO] navigate to checkout 2nd page
+2026-06-02 14:57:48 [INFO] Navigates to Checkout page for adding address details
+2026-06-02 14:57:50 [INFO] Shipping address details entered
+2026-06-02 14:57:50 [INFO] Addess details entered
+2026-06-02 14:57:53 [INFO] Browser closed
+2026-06-02 15:07:21 [INFO] Browser launched and navigated to URL
+2026-06-02 15:07:22 [INFO] Entered username: standard_user
+2026-06-02 15:07:22 [INFO] Entered password
+2026-06-02 15:07:23 [INFO] Clicked login button
+2026-06-02 15:07:27 [INFO] Menu options displayed
+2026-06-02 15:07:29 [INFO] Navigating to login page
+2026-06-02 15:07:31 [INFO] Login and Logout Successfull
+2026-06-02 15:07:31 [INFO] Browser closed
+2026-06-02 15:07:35 [INFO] Browser launched and navigated to URL
+2026-06-02 15:07:35 [INFO] Entered username: standard_user
+2026-06-02 15:07:35 [INFO] Entered password
+2026-06-02 15:07:35 [INFO] Clicked login button
+2026-06-02 15:07:35 [INFO] Login Successful
+2026-06-02 15:07:37 [INFO] Product added to cart
+2026-06-02 15:07:39 [INFO] Navigation to cart page
+2026-06-02 15:07:39 [INFO] Product added and cart opened
+2026-06-02 15:07:41 [INFO] Menu options displayed
+2026-06-02 15:07:44 [INFO] Navigating to login page
+2026-06-02 15:07:46 [INFO] User logged out
+2026-06-02 15:07:46 [INFO] Browser closed
+2026-06-02 15:07:50 [INFO] Browser launched and navigated to URL
+2026-06-02 15:07:50 [INFO] Entered username: standard_user
+2026-06-02 15:07:50 [INFO] Entered password
+2026-06-02 15:07:50 [INFO] Clicked login button
+2026-06-02 15:07:50 [INFO] Login successful
+2026-06-02 15:07:52 [INFO] Product added to cart
+2026-06-02 15:07:52 [INFO] Product added to cart
+2026-06-02 15:07:54 [INFO] Navigation to cart page
+2026-06-02 15:07:54 [INFO] Cart opened
+2026-06-02 15:07:56 [INFO] navigate to checkout 2nd page
+2026-06-02 15:07:56 [INFO] Navigates to Checkout page for adding address details
+2026-06-02 15:07:58 [INFO] Shipping address details entered
+2026-06-02 15:07:58 [INFO] Addess details entered
+2026-06-02 15:08:01 [INFO] Browser closed
+2026-06-02 15:10:28 [INFO] Browser launched and navigated to URL
+2026-06-02 15:10:29 [INFO] Entered username: standard_user
+2026-06-02 15:10:29 [INFO] Entered password
+2026-06-02 15:10:29 [INFO] Clicked login button
+2026-06-02 15:10:33 [INFO] Menu options displayed
+2026-06-02 15:10:35 [INFO] Navigating to login page
+2026-06-02 15:10:37 [INFO] Login and Logout Successfull
+2026-06-02 15:10:38 [INFO] Browser closed
+2026-06-02 15:10:41 [INFO] Browser launched and navigated to URL
+2026-06-02 15:10:42 [INFO] Entered username: standard_user
+2026-06-02 15:10:42 [INFO] Entered password
+2026-06-02 15:10:42 [INFO] Clicked login button
+2026-06-02 15:10:42 [INFO] Login Successful
+2026-06-02 15:10:44 [INFO] Product added to cart
+2026-06-02 15:10:46 [INFO] Navigation to cart page
+2026-06-02 15:10:46 [INFO] Product added and cart opened
+2026-06-02 15:10:48 [INFO] Menu options displayed
+2026-06-02 15:10:50 [INFO] Navigating to login page
+2026-06-02 15:10:52 [INFO] User logged out
+2026-06-02 15:10:53 [INFO] Browser closed
+2026-06-02 15:10:56 [INFO] Browser launched and navigated to URL
+2026-06-02 15:10:56 [INFO] Entered username: standard_user
+2026-06-02 15:10:56 [INFO] Entered password
+2026-06-02 15:10:57 [INFO] Clicked login button
+2026-06-02 15:10:57 [INFO] Login successful
+2026-06-02 15:10:59 [INFO] Product added to cart
+2026-06-02 15:10:59 [INFO] Product added to cart
+2026-06-02 15:11:01 [INFO] Navigation to cart page
+2026-06-02 15:11:01 [INFO] Cart opened
+2026-06-02 15:11:03 [INFO] navigate to checkout 2nd page
+2026-06-02 15:11:03 [INFO] Navigates to Checkout page for adding address details
+2026-06-02 15:11:05 [INFO] Shipping address details entered
+2026-06-02 15:11:05 [INFO] Addess details entered
+2026-06-02 15:11:08 [INFO] Browser closed
+2026-06-02 15:17:59 [INFO] Browser launched and navigated to URL
+2026-06-02 15:18:00 [INFO] Entered username: standard_user
+2026-06-02 15:18:00 [INFO] Entered password
+2026-06-02 15:18:00 [INFO] Clicked login button
+2026-06-02 15:18:04 [INFO] Menu options displayed
+2026-06-02 15:18:06 [INFO] Navigating to login page
+2026-06-02 15:18:08 [INFO] Login and Logout Successfull
+2026-06-02 15:18:09 [INFO] Browser closed
+2026-06-02 15:18:12 [INFO] Browser launched and navigated to URL
+2026-06-02 15:18:13 [INFO] Entered username: standard_user
+2026-06-02 15:18:13 [INFO] Entered password
+2026-06-02 15:18:13 [INFO] Clicked login button
+2026-06-02 15:18:13 [INFO] Login Successful
+2026-06-02 15:18:15 [INFO] Product added to cart
+2026-06-02 15:18:17 [INFO] Navigation to cart page
+2026-06-02 15:18:17 [INFO] Product added and cart opened
+2026-06-02 15:18:19 [INFO] Menu options displayed
+2026-06-02 15:18:21 [INFO] Navigating to login page
+2026-06-02 15:18:23 [INFO] User logged out
+2026-06-02 15:18:24 [INFO] Browser closed
+2026-06-02 15:18:27 [INFO] Browser launched and navigated to URL
+2026-06-02 15:18:28 [INFO] Entered username: standard_user
+2026-06-02 15:18:28 [INFO] Entered password
+2026-06-02 15:18:28 [INFO] Clicked login button
+2026-06-02 15:18:28 [INFO] Login successful
+2026-06-02 15:18:30 [INFO] Product added to cart
+2026-06-02 15:18:30 [INFO] Product added to cart
+2026-06-02 15:18:32 [INFO] Navigation to cart page
+2026-06-02 15:18:32 [INFO] Cart opened
+2026-06-02 15:18:34 [INFO] navigate to checkout 2nd page
+2026-06-02 15:18:34 [INFO] Navigates to Checkout page for adding address details
+2026-06-02 15:18:36 [INFO] Shipping address details entered
+2026-06-02 15:18:36 [INFO] Addess details entered
+2026-06-02 15:18:38 [INFO] Clicked finish button and order placed
+2026-06-02 15:18:43 [INFO] Order place successfully
+2026-06-02 15:18:43 [INFO] clicked on Back to Home button
+2026-06-02 15:18:43 [INFO] Navigate to home or product page
+2026-06-02 15:18:47 [INFO] Menu options displayed
+2026-06-02 15:18:50 [INFO] Navigating to login page
+2026-06-02 15:18:52 [INFO] User logged out
+2026-06-02 15:18:54 [INFO] Browser closed
+2026-06-09 12:44:05 [INFO] Browser launched and navigated to URL
+2026-06-09 12:44:07 [INFO] Entered username: standard_user
+2026-06-09 12:44:07 [INFO] Entered password
+2026-06-09 12:44:07 [INFO] Clicked login button
+2026-06-09 12:44:11 [INFO] Menu options displayed
+2026-06-09 12:44:13 [INFO] Navigating to login page
+2026-06-09 12:44:15 [INFO] Login and Logout Successfull
+2026-06-09 12:44:16 [INFO] Browser closed
+2026-06-09 12:44:21 [INFO] Browser launched and navigated to URL
+2026-06-09 12:44:22 [INFO] Entered username: standard_user
+2026-06-09 12:44:22 [INFO] Entered password
+2026-06-09 12:44:22 [INFO] Clicked login button
+2026-06-09 12:44:22 [INFO] Login Successful
+2026-06-09 12:44:24 [INFO] Product added to cart
+2026-06-09 12:44:26 [INFO] Navigation to cart page
+2026-06-09 12:44:26 [INFO] Product added and cart opened
+2026-06-09 12:44:28 [INFO] Menu options displayed
+2026-06-09 12:44:30 [INFO] Navigating to login page
+2026-06-09 12:44:32 [INFO] User logged out
+2026-06-09 12:44:34 [INFO] Browser closed
+2026-06-09 12:44:39 [INFO] Browser launched and navigated to URL
+2026-06-09 12:44:40 [INFO] Entered username: standard_user
+2026-06-09 12:44:40 [INFO] Entered password
+2026-06-09 12:44:40 [INFO] Clicked login button
+2026-06-09 12:44:40 [INFO] Login successful
+2026-06-09 12:44:42 [INFO] Product added to cart
+2026-06-09 12:44:42 [INFO] Product added to cart
+2026-06-09 12:44:44 [INFO] Navigation to cart page
+2026-06-09 12:44:44 [INFO] Cart opened
+2026-06-09 12:44:46 [INFO] navigate to checkout 2nd page
+2026-06-09 12:44:46 [INFO] Navigates to Checkout page for adding address details
+2026-06-09 12:44:48 [INFO] Shipping address details entered
+2026-06-09 12:44:48 [INFO] Addess details entered
+2026-06-09 12:44:51 [INFO] Clicked finish button and order placed
+2026-06-09 12:44:56 [INFO] Order place successfully
+2026-06-09 12:44:56 [INFO] clicked on Back to Home button
+2026-06-09 12:44:56 [INFO] Navigate to home or product page
+2026-06-09 12:45:00 [INFO] Menu options displayed
+2026-06-09 12:45:02 [INFO] Navigating to login page
+2026-06-09 12:45:04 [INFO] User logged out
+2026-06-09 12:45:07 [INFO] Browser closed
